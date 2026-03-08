@@ -25,3 +25,10 @@ caption_model.keras (65MB)
 caption_model.keras is stored externally due to GitHub upload limits
 Download from:
 https://drive.google.com/file/d/1SeNKdm7ttotMNJ6t573mQgWk6xhrJKDB/view?usp=drive_link
+
+## Dataset
+
+Dataset used: Flickr8k
+
+Download from Kaggle and place it in the dataset folder before training the model.
+
